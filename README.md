@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @VARTIK-ARSH
+- I an android developer and a certified Ethical hacker.
 - 👀 I’m interested in ... WORK
 - 🌱 I’m currently learning ... Language 
 - 💞️ I have a experience in different languages ( phython,Java,C)
