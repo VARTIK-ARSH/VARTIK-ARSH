@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Vartik Arsh, an Android Developer and Certified Ethical Hacker.<br>👀 I’m passionate about expanding my technical knowledge and keeping up with the latest trends in technology.<br>🌱 Currently, I am enhancing my expertise in Android development, while also having hands-on experience with multiple programming languages, including Python, Java, and C.<br>💻 Additionally, I possess foundational knowledge in web development and ethical hacking, consistently aiming to broaden my skill set.<br>🔍 I’m always open to new opportunities to collaborate and learn in the tech community.
+👋 Hi, I'm Arsh Saxena, an Android Developer and Certified Ethical Hacker.<br>👀 I’m passionate about expanding my technical knowledge and keeping up with the latest trends in technology.<br>🌱 Currently, I am enhancing my expertise in Android development, while also having hands-on experience with multiple programming languages, including Python, Java, and C.<br>💻 Additionally, I possess foundational knowledge in web development and ethical hacking, consistently aiming to broaden my skill set.<br>🔍 I’m always open to new opportunities to collaborate and learn in the tech community.
 
 
 ## 🌐 Socials:
